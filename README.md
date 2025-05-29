@@ -3,7 +3,8 @@ A simple Rock-Paper-Scissors CLI game in Python using basic control flow, random
 
 This is a simple command-line Rock-Paper-Scissors game built using Python. The game leverages Python’s random module to generate AI responses, the sys module for clean program exits, and uses object-oriented programming principles with a class-based structure for clean organization.
 
-Key Features:
+# Key Features:
+
 •Command-line interface for user interaction.
 
 •AI opponent that randomly chooses rock, paper, or scissors.
@@ -14,7 +15,8 @@ Key Features:
 
 •Clear input validation and error handling.
 
-Python Concepts Used:
+# Python Concepts Used:
+
 •random.choice() to simulate AI behavior.
 
 •sys.exit() for program control.
